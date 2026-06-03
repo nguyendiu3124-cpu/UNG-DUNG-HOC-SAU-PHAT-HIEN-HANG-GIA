@@ -18,7 +18,7 @@ Dự án tập trung vào các mục tiêu chính:
 
 ## 3. Dữ liệu sử dụng
 
-Bộ dữ liệu gồm các hình ảnh sản phẩm được chia thành hai nhãn:
+Bộ dữ liệu gồm các hình ảnh sản phẩm (nguồn: Roboflow Universe) được chia thành hai nhãn:
 
 - `real`: sản phẩm thật
 - `fake`: sản phẩm giả
